@@ -6,10 +6,10 @@ import simpleaudio as sa
 
 
 def main():
-    translator_apikey = "R6xEUn5YDR24mOkcMGKW8IjPfoukeQeBZZwHivsfuaYn"
-    text_to_speech_apikey = "UXRaoDn31eCgv__FHGnnb7hNv6Y_AD3Yf3IKqFstcYox"
-    translator_url = "https://api.us-south.language-translator.watson.cloud.ibm.com/instances/d23f2f5a-f4d0-46fa-a9df-8102e45d7058"
-    text_to_speech_url = "https://api.us-south.text-to-speech.watson.cloud.ibm.com/instances/bc1f14a1-b0a1-4869-8e0b-6104b7e64a7e"
+    translator_apikey = "enter_api_key"
+    text_to_speech_apikey = "enter_api_key"
+    translator_url = "enter_url"
+    text_to_speech_url = "enter_url"
     version = "2018-05-01"
 
     # authenticate the translator and the text to speech
