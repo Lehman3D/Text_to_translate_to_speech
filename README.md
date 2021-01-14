@@ -5,5 +5,5 @@ Used API keys from IBM Watson to translate user inputted text to a selected lang
 
 Need to install the following packages
 
-  pip install ibm_watson
+  pip install ibm_watson ,
   pip install simpleaudio
